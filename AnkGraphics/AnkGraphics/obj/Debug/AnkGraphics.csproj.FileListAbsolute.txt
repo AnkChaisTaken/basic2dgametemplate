@@ -1,0 +1,7 @@
+C:\Users\cecen\source\repos\AnkGraphics\AnkGraphics\bin\Debug\AnkGraphics.exe.config
+C:\Users\cecen\source\repos\AnkGraphics\AnkGraphics\bin\Debug\AnkGraphics.exe
+C:\Users\cecen\source\repos\AnkGraphics\AnkGraphics\bin\Debug\AnkGraphics.pdb
+C:\Users\cecen\source\repos\AnkGraphics\AnkGraphics\obj\Debug\AnkGraphics.csproj.CoreCompileInputs.cache
+C:\Users\cecen\source\repos\AnkGraphics\AnkGraphics\obj\Debug\AnkGraphics.exe
+C:\Users\cecen\source\repos\AnkGraphics\AnkGraphics\obj\Debug\AnkGraphics.pdb
+C:\Users\cecen\source\repos\AnkGraphics\AnkGraphics\obj\Debug\AnkGraphics.csprojAssemblyReference.cache
